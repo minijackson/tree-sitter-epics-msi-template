@@ -7,7 +7,7 @@ typedef struct TSLanguage TSLanguage;
 extern "C" {
 #endif
 
-const TSLanguage *tree_sitter_epics-msi-template(void);
+const TSLanguage *tree_sitter_epics_msi_template(void);
 
 #ifdef __cplusplus
 }
