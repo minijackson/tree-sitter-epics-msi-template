@@ -4,8 +4,7 @@
 //! tree-sitter [`Parser`], and then use the parser to parse some code:
 //!
 //! ```
-//! let code = r#"
-//! "#;
+//! let code = r#"${MACRO=default value}"#;
 //! let mut parser = tree_sitter::Parser::new();
 //! let language = tree_sitter_epics_msi_template::LANGUAGE;
 //! parser
