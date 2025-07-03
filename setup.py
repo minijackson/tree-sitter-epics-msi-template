@@ -30,7 +30,7 @@ else:
 class Build(build):
     def run(self):
         if path.isdir("queries"):
-            dest = path.join(self.build_lib, "tree_sitter_epics-msi-template", "queries")
+            dest = path.join(self.build_lib, "tree_sitter_epics_msi_template", "queries")
             self.copy_tree("queries", dest)
         super().run()
 
