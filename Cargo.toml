@@ -1,7 +1,7 @@
 [package]
 name = "tree-sitter-epics-msi-template"
 description = "EpicsMsiTemplate grammar for tree-sitter"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Rémi NICOLE"]
 license = "MIT"
 readme = "README.md"

@@ -4,7 +4,7 @@ endif
 
 LANGUAGE_NAME := tree-sitter-epics-msi-template
 HOMEPAGE_URL := https://github.com/minijackson/tree-sitter-epics-msi-template
-VERSION := 0.1.1
+VERSION := 0.1.2
 
 # repository
 SRC_DIR := src
