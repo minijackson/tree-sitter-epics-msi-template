@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-epics-msi-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "EpicsMsiTemplate grammar for tree-sitter",
   "repository": "https://github.com/minijackson/tree-sitter-epics-msi-template",
   "license": "MIT",
