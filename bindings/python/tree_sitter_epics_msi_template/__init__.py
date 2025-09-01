@@ -1,4 +1,4 @@
-"""EpicsMsiTemplate grammar for tree-sitter"""
+"""tree-sitter grammar for EPICS macros"""
 
 from importlib.resources import files as _files
 

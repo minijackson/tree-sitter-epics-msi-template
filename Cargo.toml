@@ -1,8 +1,8 @@
 [package]
 name = "tree-sitter-epics-msi-template"
-description = "EpicsMsiTemplate grammar for tree-sitter"
+description = "tree-sitter grammar for EPICS macros"
 version = "0.1.2"
-authors = ["Rémi NICOLE"]
+authors = ["Rémi NICOLE <remi.nicole@cea.fr>"]
 license = "MIT"
 readme = "README.md"
 keywords = ["incremental", "parsing", "tree-sitter", "epics"]
