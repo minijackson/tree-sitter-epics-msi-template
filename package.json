@@ -13,7 +13,7 @@
     "incremental",
     "parsing",
     "tree-sitter",
-    "epics_msi_template"
+    "epics"
   ],
   "files": [
     "grammar.js",
