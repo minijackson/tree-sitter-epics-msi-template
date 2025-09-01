@@ -3,16 +3,15 @@
 [![CI][ci]](https://github.com/minijackson/tree-sitter-epics-msi-template/actions/workflows/ci.yml)
 [![discord][discord]](https://discord.gg/w7nTvsVJhm)
 [![matrix][matrix]](https://matrix.to/#/#tree-sitter-chat:matrix.org)
-<!-- NOTE: uncomment these if you're publishing packages: -->
-<!-- [![npm][npm]](https://www.npmjs.com/package/tree-sitter-epics-msi-template) -->
-<!-- [![crates][crates]](https://crates.io/crates/tree-sitter-epics-msi-template) -->
-<!-- [![pypi][pypi]](https://pypi.org/project/tree-sitter-epics-msi-template/) -->
+[![npm][npm]](https://www.npmjs.com/package/tree-sitter-epics-msi-template)
+[![crates][crates]](https://crates.io/crates/tree-sitter-epics-msi-template)
+[![pypi][pypi]](https://pypi.org/project/tree-sitter-epics-msi-template/)
 
-A Tree-sitter parser for epics-msi-template files.
+A Tree-sitter parser for EPICS macros.
 
 ## References
 
-<!-- NOTE: add the grammar's references here -->
+- [EPICS Macro substitution documentation](https://docs.epics-controls.org/en/latest/appdevguide/databaseDefinition.html#macro-substitution)
 
 [ci]: https://img.shields.io/github/actions/workflow/status/minijackson/tree-sitter-epics-msi-template/ci.yml?logo=github&label=CI
 [discord]: https://img.shields.io/discord/1063097320771698699?logo=discord&label=discord
